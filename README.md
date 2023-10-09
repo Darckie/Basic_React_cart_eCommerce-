@@ -1,4 +1,4 @@
-# totalitycorp-frontend-challenge
+# React ecommerce website/cart functionality 
 //Hey there ! it is brijesh kunwar an aspirant fullstack developer
 
 # E-Commerce Website
